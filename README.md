@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=vbP3H5vxJ8g
 Project Deployment
 https://plswork-a6f1e.firebaseapp.com (Hosting Currently not functional :(. Will be fixed as soon as possible and updated here!)
 
+<b> Proposed level of achievement: Gemini </b>
+
 <b>Motivation</b>
 
 Amidst the hustle and bustle of your busy schedule, you thought about meeting your old friends after a while. Thinking that your friends will be busy, you decided to delay a meetup with them to a later date. You finally decided to contact them, but to your dismay, another year has passed, you find out that your friends are even busier with their schedules. A reunion seems to be impossible to organise. 
@@ -281,9 +283,75 @@ We hope to be able to provide users with a platform for them to identify common 
 <p><strong>Pass</strong></p>
 </td>
 </tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">9</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Functionality of&nbsp; calendar events</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Click on the calendars</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check if events are added</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to add events on the calendar based on their schedule</span></p>
+</td>
+<td>
+<p><strong>Pass</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">10</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Calendar events reflect proper dates</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Events are properly added</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to see their events on the calendars</span></p>
+</td>
+<td>
+<p><strong>Pass</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">11</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Functionality of the chatbot</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Access the chatbot page</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check if they are able to type in chats</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to interact using the chatbot</span></p>
+</td>
+<td>
+<p><strong>Pass</strong></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
+![Screenshot (16)](https://user-images.githubusercontent.com/64765004/127022112-53e043c9-20e0-4da5-867d-d78d9f518cbc.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/64765004/127022119-1311bcd5-b649-4744-8afa-e482a9643e08.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/64765004/127022123-f8bf7bb9-71c4-4635-bb63-f7aa1bc0d060.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/64765004/127022131-93904161-60e7-4098-8215-ca70e3c2a428.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/64765004/127022135-f2835120-a495-4ddf-83fa-fdb17ff79346.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/64765004/127022145-37f39c0a-4b75-4ad7-8f3d-d375924893fd.png)
+
 
 <b>Technologies Used</b>
 
