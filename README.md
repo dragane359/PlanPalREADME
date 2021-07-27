@@ -106,7 +106,7 @@ We hope to be able to provide users with a platform for them to identify common 
 </table>
 
 <p><span style="font-weight: 400;">Testing</span></p>
-<p><span style="font-weight: 400;">(For things we&rsquo;ve done up to Milestone 2)</span></p>
+<p><span style="font-weight: 400;">(For things we&rsquo;ve done up to Milestone 3)</span></p>
 <table>
 <tbody>
 <tr>
@@ -342,8 +342,105 @@ We hope to be able to provide users with a platform for them to identify common 
 <p><strong>Pass</strong></p>
 </td>
 </tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">12</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Special Characters in Chatbot</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Able to include special characters</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users should be able to chat with special characters without buggy issues</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pass</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">13</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Overlapping events</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add multiple events on the same calendar date</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to add multiple events and ensure that the events are not buggy</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pass (Buggy at times)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">14</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Using a second host</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Simulataneous local hosting of events</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Running through the application&nbsp;</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to navigate on the app with simultaneous users</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pass</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">15</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Creating a group that already exists</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating of&nbsp; the same group with the exact users of the same id</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users are able to navigate on the app with simultaneous users</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pass</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">16</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Joining a group that Users are already in</span></p>
+</td>
+<td>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Joining of group that are they are already in&nbsp;</span></li>
+</ol>
+</td>
+<td>
+<p><span style="font-weight: 400;">Users should not be able to rejoin a group that they are already in&nbsp;&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pass (Buggy at times)</span></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/64765004/127022112-53e043c9-20e0-4da5-867d-d78d9f518cbc.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/64765004/127022119-1311bcd5-b649-4744-8afa-e482a9643e08.png)
