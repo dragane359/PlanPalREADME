@@ -9,6 +9,9 @@ The one-stop application to ease your scheduling worries!
 User Guide
 https://docs.google.com/document/d/1otOEyy-XAJUIanCvJ4ahWh87KA77Hd05IrBGhXH-qGw/edit?usp=sharing
 
+Dev Guide
+https://docs.google.com/document/d/1TOduqQ28KuzIyo5eNfT55HWlblix7_KKpvJELF4u0do/edit
+
 Project Video
 https://drive.google.com/file/d/1zPZikpR8d0sc-UZGkh1jAPMRHmUhUCmh/view?usp=sharing
 
