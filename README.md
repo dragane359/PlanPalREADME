@@ -22,7 +22,7 @@ Project Video Walkthrough
 https://www.youtube.com/watch?v=vbP3H5vxJ8g
 
 Project Deployment
-https://plswork-a6f1e.firebaseapp.com (Hosting Currently not functional :(. Will be fixed as soon as possible and updated here!)
+https://plswork-a6f1e.firebaseapp.com/#/ (Deployment now works!)
 
 <b> Proposed level of achievement: Apollo 11 </b>
 
